@@ -19,7 +19,14 @@ pip install geopandas
 ```bash
 pip install Flask
 ```
-
+How can I start the proyect?
+-----------
+After install python on us device, we write in console
+```bash
+python main.py
+or
+python3 main.py
+```
 How can I search something?
 -----------
 In the code we will look for some routes
