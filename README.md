@@ -21,7 +21,7 @@ pip install Flask
 ```
 How can I start the proyect?
 -----------
-After install python on us device, we write in console
+After installing python on your device, we write in console
 ```bash
 python main.py
 or
